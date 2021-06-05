@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KotasArvanitis
+- 👋 Hi, I’m @KostasArvanitis
 - 👀 I’m interested in physics, mathematics, programming
 - 🌱 I’m currently learning python and Latex
 - 💞️ I’m looking to collaborate on teaching tools
